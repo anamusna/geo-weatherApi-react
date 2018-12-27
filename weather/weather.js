@@ -23,3 +23,5 @@ const getWeather = (lat, lng, callback) => {
 
 module.exports.getWeather = getWeather
 
+
+
